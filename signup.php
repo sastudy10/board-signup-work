@@ -1,11 +1,3 @@
-<?php
-  session_start();
-  header("Content-type: text/html; charset=utf-8");  	
-
-  header('X-FRAME-OPTIONS: SAMEORIGIN');  	
-  require_once("db.php");        	
-?>
-
 <!DOCTYPE html>
 <html lang = "ja">
   <head>
