@@ -1,0 +1,39 @@
+body{
+  background-color:#fff;
+}
+h {
+  margin:20px;
+  font-size:40px;
+  background: #dfefff;
+  box-shadow: 0px 0px 0px 5px #dfefff;
+  border: dashed 2px white;
+  padding: 0.2em 0.5em;
+}
+h3{
+  color:#44A5CB;
+}
+#main{
+  width:40%;
+  height:200px;
+  margin:30px;
+  padding-left:50px;
+  padding-top:20px;
+  font-size:20px;
+}
+
+.btn{
+  width:100px;
+  height:40px;
+  border: solid 1px white;
+  border-radius: 5x;
+  font-size:15px;
+
+}
+.err{
+  
+  width:40%;
+  border: dashed 2px red;
+  border-radius: 10px;
+  margin:20px;
+  color:#FF2A2A;
+}
