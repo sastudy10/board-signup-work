@@ -1,0 +1,85 @@
+body{
+  background-color:#fff;
+}
+h {
+  margin:30px;
+  font-size:40px;
+  background: #dfefff;
+  box-shadow: 0px 0px 0px 5px #dfefff;
+  border: dashed 2px white;
+  padding: 0.2em 0.5em;
+}
+#main{
+    padding: 0.5em 1em;
+  margin :30px;
+    font-weight: bold;
+    color: #6091d3;
+    background: #FFF;
+    border: solid 3px #6091d3;
+    border-radius: 10px;
+    font-size:20px;
+}
+.min{
+  margin:5px;
+  width:600px;
+}
+.name{
+  margin:10px;
+  width:200px;
+  height:5px;
+}
+.lavel{
+  width:;
+}
+.com{
+  margin:10px;
+  width:40%;
+  height:70px;
+ 
+}
+.btn{
+  width:100px;
+  height:40px;
+  border: solid 2px white;
+  border-radius: 10px;
+  
+
+}
+.cnt{
+  margin-left:20px;
+  font-size:20px;
+}
+.wrapper{
+  margin-left:20px;
+  padding:10px;
+}
+.id{
+  font-size:20px;
+  
+  font-weight:bold;
+  padding:2px;
+}
+.name{
+  font-size:25px;
+  color:#40BFB0;
+  padding:10px;
+}
+.date{
+  font-size:13px;
+  color:#AAAAAA;
+  padding:2px;
+}
+p.article{
+  font-size:20px;
+}
+a:link{
+  color:#40BFB0;
+  
+}
+.links{
+  color:#446662;
+}
+.pages{
+  text-align:center;
+  font-size:20px;
+}
